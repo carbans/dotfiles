@@ -16,3 +16,4 @@ ripgrep 14.1.1
 bat 0.25.0
 chezmoi 2.59.1
 ruby truffleruby+graalvm-24.1.2
+exa 0.10.1
