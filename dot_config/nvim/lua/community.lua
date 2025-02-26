@@ -19,5 +19,7 @@ return {
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.tailwindcss" },
+  { import = "astrocommunity.colorscheme.monokai-pro-nvim" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
   -- import/override with your plugins folder
 }
