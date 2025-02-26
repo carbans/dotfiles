@@ -113,6 +113,7 @@ alias k="kubectl"
 alias marp='docker run --rm --init -v $PWD:/home/marp/app/ -e LANG=$LANG -e MARP_USER="$(id -u):$(id -g)" marpteam/marp-cli'
 alias sb="cd ~/git/second-brain/"
 alias generatereadme="terraform-docs -c .terraform-docs.yml . > README.md"
+alias dots="chezmoi cd"
 
 function cwhois {
 	whois -h bgp.tools " -v $*";
@@ -133,7 +134,7 @@ function shoot {
 export VISUAL=nvim
 export EDITOR="$VISUAL"
 export SECOND_BRAIN="$HOME/git/second-brain"
-
+export BROWSER="powershell.exe start"
 
 # Función para exportar AccessKeyId, SecretAccessKey y SessionToken a partir del ARN del rol
 assumerole_export() {
