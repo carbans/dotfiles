@@ -1,6 +1,6 @@
 nodejs v20.13.0
 golang 1.22.4
-neovim 0.10.1
+neovim 0.11.1
 fzf 0.23.1
 dive 0.9.2
 kubectl 1.28.9
@@ -20,3 +20,11 @@ exa 0.10.1
 gopass 1.9.2
 lazygit 0.47.2
 rust 1.85.0
+python 3.11.9
+awscli 2.9.9
+trippy 0.12.2
+ansible-base 2.10.17
+scaleway-cli 2.38.0
+mc 2025-03-12T17-29-24Z
+terraform 1.9.8
+terragrunt 0.66.0
