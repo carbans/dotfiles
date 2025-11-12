@@ -1,0 +1,6 @@
+[user]
+	name = Carlos Latorre
+	email = carlos.latorre@mango.com
+
+[includeIf "gitdir:~/git/"]
+    path = ~/.gitconfig_git
