@@ -16,15 +16,14 @@ ripgrep 14.1.1
 bat 0.25.0
 chezmoi 2.59.1
 ruby truffleruby+graalvm-24.1.2
-exa 0.10.1
 gopass 1.9.2
 lazygit 0.47.2
 rust 1.85.0
 python 3.11.9
 awscli 2.9.9
-trippy 0.12.2
 ansible-base 2.10.17
 scaleway-cli 2.38.0
 mc 2025-03-12T17-29-24Z
 terraform 1.9.8
 terragrunt 0.66.0
+eza 0.23.5

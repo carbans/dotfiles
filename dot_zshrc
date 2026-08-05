@@ -104,7 +104,7 @@ source <(jira completion zsh)
 alias python="python3"
 alias cat="bat"
 alias ocat="/bin/cat"
-alias ls="exa --icons"
+alias ls="eza --icons"
 alias vim="nvim"
 alias v="nvim"
 alias containerlab="sudo containerlab"
